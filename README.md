@@ -1,8 +1,8 @@
 # PythonPDF
 
-###Merger
+### Merger
 Merges multiple PDFs into a single file
 
 
-###Watermaker
+### Watermaker
 Uses a template that is watermakerd into every page
